@@ -45,7 +45,7 @@ jobs:
 
       - name: Install Packages
         run: |
-          yarn install --frozen-lockfile
+          yarn install --frozen-lockfile --network-timeout 100000
           yarn build
           yarn export
 
