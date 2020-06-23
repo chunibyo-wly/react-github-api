@@ -3,7 +3,7 @@ import './App.css';
 import {Row, Col} from "antd";
 import UserCard from "./components/UserCard";
 import UserSearch from "./components/UserSearch";
-import {message, Space} from 'antd';
+import {message} from 'antd';
 
 class App extends React.Component {
     avatar_url;
