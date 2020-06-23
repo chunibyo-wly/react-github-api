@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/react-github-api/static/css/main.5f361e03.chunk.css",
-    "main.js": "/react-github-api/static/js/main.d3fc2300.chunk.js",
-    "main.js.map": "/react-github-api/static/js/main.d3fc2300.chunk.js.map",
+    "main.css": "/react-github-api/static/css/main.1e4cd520.chunk.css",
+    "main.js": "/react-github-api/static/js/main.3e70c56b.chunk.js",
+    "main.js.map": "/react-github-api/static/js/main.3e70c56b.chunk.js.map",
     "runtime-main.js": "/react-github-api/static/js/runtime-main.420fdd8c.js",
     "runtime-main.js.map": "/react-github-api/static/js/runtime-main.420fdd8c.js.map",
-    "static/js/2.6d4cf115.chunk.js": "/react-github-api/static/js/2.6d4cf115.chunk.js",
-    "static/js/2.6d4cf115.chunk.js.map": "/react-github-api/static/js/2.6d4cf115.chunk.js.map",
+    "static/css/2.3cb76441.chunk.css": "/react-github-api/static/css/2.3cb76441.chunk.css",
+    "static/js/2.83f0f5a9.chunk.js": "/react-github-api/static/js/2.83f0f5a9.chunk.js",
+    "static/js/2.83f0f5a9.chunk.js.map": "/react-github-api/static/js/2.83f0f5a9.chunk.js.map",
     "index.html": "/react-github-api/index.html",
-    "precache-manifest.8897831905e8ce64ad4cc6462252431e.js": "/react-github-api/precache-manifest.8897831905e8ce64ad4cc6462252431e.js",
+    "precache-manifest.ec457c891fc302cae03a87ffcd3a5c2f.js": "/react-github-api/precache-manifest.ec457c891fc302cae03a87ffcd3a5c2f.js",
     "service-worker.js": "/react-github-api/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/react-github-api/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.6d4cf115.chunk.js.LICENSE.txt": "/react-github-api/static/js/2.6d4cf115.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/react-github-api/static/media/logo.5d5d9eef.svg"
+    "static/css/2.3cb76441.chunk.css.map": "/react-github-api/static/css/2.3cb76441.chunk.css.map",
+    "static/css/main.1e4cd520.chunk.css.map": "/react-github-api/static/css/main.1e4cd520.chunk.css.map",
+    "static/js/2.83f0f5a9.chunk.js.LICENSE.txt": "/react-github-api/static/js/2.83f0f5a9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.420fdd8c.js",
-    "static/js/2.6d4cf115.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.d3fc2300.chunk.js"
+    "static/css/2.3cb76441.chunk.css",
+    "static/js/2.83f0f5a9.chunk.js",
+    "static/css/main.1e4cd520.chunk.css",
+    "static/js/main.3e70c56b.chunk.js"
   ]
 }
